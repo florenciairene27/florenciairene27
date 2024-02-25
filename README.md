@@ -1,4 +1,4 @@
-### Hi I'm Irene 👋
+# Hi I'm Irene 👋
 
 I'm a dedicated graduate student at California State University East Bay, majoring in Statistics and deeply passionate about data analysis. Having spent two years as a Business Analyst, I've developed strong expertise in extracting valuable insights from intricate datasets. 
 
